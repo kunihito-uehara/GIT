@@ -1,0 +1,2 @@
+class Kuni < ApplicationRecord
+end
